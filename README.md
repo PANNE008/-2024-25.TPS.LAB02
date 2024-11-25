@@ -3,3 +3,4 @@ verifica
 ## Central-east
 - EALING BROADWAY
 - WEST ACTON
+- EAST ACTON
