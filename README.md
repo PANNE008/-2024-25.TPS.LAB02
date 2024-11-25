@@ -13,3 +13,4 @@ verifica
 - OXFORD CIRCUS
 - HOLBORN
 - ST PAUL'S
+- BANK
